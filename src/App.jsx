@@ -5,7 +5,7 @@ import UsersForm from './components/UsersForm'
 import UsersList from './components/UsersList'
 import { EMPTY_VALUES_FORM } from './shared/contents'
 
-const BASE_URL = "https://users-crud.academlo.tech/"
+const BASE_URL = "https://user-api-dev-baqn.3.us-1.fl0.io/api/v1/"
 
 function App() {
   const [isShowModal, setIsShowModal] = useState(false)
